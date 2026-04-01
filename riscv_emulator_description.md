@@ -1,4 +1,4 @@
-# RISC-V Assembler and Emulator
+# RISC-V Simulator
 
 This project is divided into **5 main segments** for a clearer and more interactive workflow.
 
