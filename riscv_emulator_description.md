@@ -12,8 +12,8 @@ This is the main workspace where users can write and edit RISC-V assembly code.
 - Execution-line highlighting during program run or step execution
 - Drag-and-drop file loading support
 - Comment / uncomment selected lines
-- Open source files with `.rvx` and `.txt` support
-- Save code using the browser file picker
+- Open source files with `.rvx` support
+- Save code
 
 ## 2. Registers Panel
 This segment shows the **Program Counter (PC)** and the **integer register set (`x0` to `x31`)**.
